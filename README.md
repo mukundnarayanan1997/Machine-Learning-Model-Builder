@@ -1,5 +1,7 @@
 # Machine Learning Model Builder - User Manual (Version 1.0)
 
+Download .exe from here https://drive.google.com/file/d/1pACHZoxcj_QEoBfimDEYpGATZaokjcnL/view?usp=sharing
+
 ## Welcome to the Machine Learning Model Builder!
 **Machine Learning Model Builder** is free software and comes with ABSOLUTELY NO WARRANTY.
 This user manual will guide you through every step of using the **Machine Learning Model Builder** application. This application is designed to be a user-friendly tool for building and evaluating machine learning models without needing to write complex code. Whether you are a student, researcher, or data enthusiast, this tool aims to simplify the process of model building for both **classification** and **regression** tasks.
